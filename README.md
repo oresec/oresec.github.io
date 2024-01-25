@@ -6,4 +6,4 @@ Interested in adding a write-up or a talk? Message Garrett on Discord or over Em
 - Here's a link to our [Website](https://oresec.mines.edu/)
 - And Here's our [Discord](https://discord.com/invite/mZSNCy9r)
 
-New? Click the beginner tab on the left!
+New? Click [here](https://oresec.github.io/beginner-resources)!
