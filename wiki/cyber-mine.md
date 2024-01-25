@@ -1,4 +1,4 @@
-# The Cyber Mine
+# __The Cyber Mine__
 
 ### What is it?
 The Cyber Mine is a place for OreSec members (and eventuall CS students) to practice Cybersecurity and get acquainted with both Red and Blue team toolsets.
