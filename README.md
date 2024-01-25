@@ -4,6 +4,6 @@ This wiki will store all of our write-ups from competitions, talk resources, and
 Interested in adding a write-up or a talk? Message Garrett on Discord or over Email.
 
 - Here's a link to our [Website](https://oresec.mines.edu/)
-- And Here's our [Discord](https://discord.com/invite/mZSNCy9r)
+- And Here's our [Discord](https://discord.com/invite/mZSNCy9rPM)
 
 New? Click [here](https://oresec.github.io/beginner-resources)!
